@@ -2,7 +2,7 @@
   "name": "court-case-task",
   "workspaces": [
     "Backend",
-    "Frontend"
+    "Frontend/court-case-task-frontend"
   ],
   "version": "1.0.0",
   "description": "",
