@@ -1,0 +1,55 @@
+.box {
+    display: block;
+    background-color: rgb(249, 249, 249);
+    border: solid;
+    border-radius: 1rem;
+    width: 50%;
+    height: 1vh;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    padding: 10%;
+    margin: 5%;
+    margin-left: 14%;
+}
+
+.h2 {
+    align-self: center;
+    justify-content: center;
+    margin-top: -10%;
+}
+
+.label {
+    font-weight: bold;
+    align-self: center;
+}
+
+.button {
+    width: 10%;
+    background-color: forestgreen;
+    border: solid;
+    border-radius: 0.2rem;
+    height: 5vh;
+    margin: 2%;
+    margin-left: 21%;
+}
+
+.input[type='text'] {
+    width: 50%;
+    height: 5vh;
+    border: solid;
+    text-align: center;
+}
+
+.input[type='date'] {
+    width: 50%;
+    height: 5vh;
+    border: solid;
+    text-align: center;
+}
+
+.caseStatus {
+    width: 2vw;
+    height: 3vh;
+    vertical-align: middle;
+}
